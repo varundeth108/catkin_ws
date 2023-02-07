@@ -1,0 +1,8 @@
+prefix=/home/varundeth108/catkin_ws/install
+
+Name: turtlesim_varun
+Description: Description of turtlesim_varun
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy
